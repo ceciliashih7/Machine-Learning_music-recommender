@@ -7,3 +7,8 @@ Python
 Pandas
 scikit-learn
 Jupyter Notebook
+
+Results
+Trained a DecisionTreeClassifier to predict music genres.
+Preprocessed the dataset by separating features and target labels.
+Evaluated the model's performance using accuracy metrics.
